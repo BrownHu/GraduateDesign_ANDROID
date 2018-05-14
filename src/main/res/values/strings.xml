@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SF快递助手</string>
+    <string name="title_activity_login">SF快递助手-欢迎使用</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">工号</string>
+    <string name="prompt_password">密码 </string>
+    <string name="action_sign_in">登陆</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">工号格式错误,5位及以上数字</string>
+    <string name="error_auth">工号或密码不正确</string>
+    <string name="error_invalid_password">密码不符合安全策略</string>
+    <string name="error_incorrect_password">密码不正确</string>
+    <string name="error_field_required">此项必填</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="isDebug">true</string>
+</resources>
